@@ -1,0 +1,6 @@
+framework module ReflectionFramework {
+  umbrella header "ReflectionFramework.h"
+
+  export *
+  module * { export * }
+}
